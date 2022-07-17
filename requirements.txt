@@ -1,9 +1,7 @@
-### dependency
-tqdm
-mlflow
+matplotlib
+seaborn
 pandas
-numpy
-PyYAML
+scikit-learn
+tqdm
+notebook
 
-### local packages -
-# -e . # << uncomment this to install from setup.py
